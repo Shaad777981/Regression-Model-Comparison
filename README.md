@@ -38,5 +38,12 @@ This project explores various **regression models** to predict [Total_Orders] us
 
 ## 🚀 Tech Stack
 ✔ **Python** (Pandas, NumPy, Scikit-Learn)  
-✔ **Matplotlib, Seaborn**  
+✔ **Matplpython script_name.py
+otlib, Seaborn**  
+git clone https://github.com/Shaad777981/Regression-Model-Comparison.git
+cd Regression-Model-Comparison
+pip install -r requirements.txt
+jupyter notebook
+
+
 
